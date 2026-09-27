@@ -1,0 +1,12 @@
+최종 예측 답안: submission_p3_v5.csv
+
+MD5     18ea2d928e83b8bff97a784d39084611
+SHA256  987669d833a6c1266508e1c0ba2ff9cee86f36c6d20be2cb6cbcb370db76980b
+
+동일 환경 원자료 재실행 검증
+MD5     18ea2d928e83b8bff97a784d39084611
+SHA256  987669d833a6c1266508e1c0ba2ff9cee86f36c6d20be2cb6cbcb370db76980b
+최대 절대차 0.0m, 변경 행 0/1,200
+
+재현 명령
+python run_p3.py --data-dir <P3_wave_forecast 폴더> --output submission_p3_v5.csv

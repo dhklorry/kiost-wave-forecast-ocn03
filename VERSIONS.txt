@@ -1,0 +1,12 @@
+python 3.12.14
+numpy 2.5.2
+pandas 3.0.1
+scipy 1.17.0
+scikit-learn 1.8.0
+pyarrow 25.0.1
+lightgbm 4.7.0
+narwhals 2.18.0
+catboost 1.2.10
+
+운영체제: Windows 11, 64-bit
+최종 생성 시간: 약 220초
